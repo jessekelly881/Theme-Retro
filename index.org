@@ -6,7 +6,7 @@
 
 * Welcome to Retro.
 
-Retro is a css theme targeted at org mode. Retro was inspired by its cousin [[https://jessekelly881-imagine.surge.sh/][Imagine]] and HTML5 UP's theme [[https://html5up.net/story][Story]]
+Retro is a css theme targeted at org mode. Retro was inspired by [[http://markdowncss.github.io/retro/][Retro]] for markdown(yes, I borrowed the name)
 
 Retro is available on Github [[https://github.com/jessekelly881/Theme-Retro][here]]. To use rethink add the following headers to your org document:
 
