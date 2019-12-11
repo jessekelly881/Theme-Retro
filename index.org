@@ -1,14 +1,14 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="retro.css" />
 #+OPTIONS: num:nil html-style:nil
 
-#+Title: Rethink
+#+Title: Retro
 #+SUBTITLE: Org mode meets professional web design
 
-* Welcome to Rethink.
+* Welcome to Retro.
 
-Rethink is a css theme targeted at org mode. Rethink was inspired by its cousin [[https://jessekelly881-imagine.surge.sh/][Imagine]] and HTML5 UP's theme [[https://html5up.net/story][Story]]
+Retro is a css theme targeted at org mode. Retro was inspired by its cousin [[https://jessekelly881-imagine.surge.sh/][Imagine]] and HTML5 UP's theme [[https://html5up.net/story][Story]]
 
-Rethink is available on Github [[https://github.com/jessekelly881/Theme-Rethink][here]]. To use rethink add the following headers to your org document:
+Retro is available on Github [[https://github.com/jessekelly881/Theme-Retro][here]]. To use rethink add the following headers to your org document:
 
 #+BEGIN_SRC org
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="rethink.css" />
@@ -17,9 +17,9 @@ Rethink is available on Github [[https://github.com/jessekelly881/Theme-Rethink]
 
 ** Learn more
 
-To learn more about Rethink and what I do feel free to check out my [[https://www.jessekelly.tk][Blog]] or my [[https://www.github.com/jessekelly881][Github]]
+To learn more about Retro and what I do feel free to check out my [[https://www.jessekelly.tk][Blog]] or my [[https://www.github.com/jessekelly881][Github]]
 
-* Rethink supports...
+* Retro supports...
 
 ** Ordered lists
 
