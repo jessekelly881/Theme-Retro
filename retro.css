@@ -35,8 +35,8 @@ body {
 
 /* Headers */
 h1{font-size: 2.5rem;}
-h2, h1 > .subtitle{font-size: 1.7rem;}
-h3, h4, h5, h6{font-size: 1.3rem;}
+h2{font-size: 1.7rem;}
+h1 > .subtitle, h3, h4, h5, h6{font-size: 1.3rem;}
 
 .title{
     margin-bottom: 2.5rem;
