@@ -15,14 +15,21 @@ body {
 @media only screen and (min-width: 750px) /* Large screens */
 {
     body{
-        margin: 2vh 25vw;
+        margin: 0 25vw;
     }
 }
 
-@media only screen and (max-width: 750px) /* Small screens */
+@media only screen and (min-width: 550px max-width: 750px) /* Med screens */
 {
     body{
-        margin: 2vh 5vw;
+        margin: 0 10vw;
+    }
+}
+
+@media only screen and (max-width: 550px) /* Small screens */
+{
+    body{
+        margin: 0 5vw;
     }
 
 }
@@ -137,4 +144,9 @@ th, td{
 
 .underline{
     text-decoration: underline;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
 }
