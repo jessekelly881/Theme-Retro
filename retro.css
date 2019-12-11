@@ -65,7 +65,7 @@ a:hover, a:focus, a:active {
 /* Code */
 pre,
 code {
-    font-family: Menlo, Monaco, "Courier New", monospace;
+    font-family: "Courier New";
     padding: .5rem;
     background-color: #333;
     padding: 0.5rem;
