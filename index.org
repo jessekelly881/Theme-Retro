@@ -11,7 +11,7 @@ Retro is a css theme targeted at org mode. Retro was inspired by [[http://markdo
 Retro is available on Github [[https://github.com/jessekelly881/Theme-Retro][here]]. To use rethink add the following headers to your org document:
 
 #+BEGIN_SRC org
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="rethink.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="retro.css" />
 #+OPTIONS: toc:nil num:nil html-style:nil
 #+END_SRC
 
