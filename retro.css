@@ -11,6 +11,11 @@ body {
     font-family: "Courier New";
 }
 
+::selection {
+    background-color:  #2ecc40;
+    color: white;
+}
+
 /* Responsive content positioning */
 @media only screen and (min-width: 1020px) /* Large screens */
 {
@@ -48,7 +53,7 @@ pre, blockquote, ul, ol, p, table{
     margin: 1rem 0;
 }
 
-h1, h2{margin-top: 2rem;}
+h1, h2{margin-top: 2rem; line-height: 2rem;}
 h3, h4, h5, h6{margin-top: 1rem;}
 
 
@@ -63,8 +68,7 @@ a:hover, a:focus, a:active {
 }
 
 /* Code */
-pre,
-code {
+pre {
     font-family: "Courier New";
     padding: .5rem;
     background-color: #333;
